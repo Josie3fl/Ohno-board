@@ -13,7 +13,7 @@ Ohno-board was made as one of the fastest projects I felt it was of the entire c
 ## Installation
 
 To install this app you can click on this link: 
-Or you visit the repository on: 
+Or you visit the repository on: https://github.com/Josie3fl/Ohno-board
 
 
 
